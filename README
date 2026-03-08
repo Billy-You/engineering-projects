@@ -1,0 +1,15 @@
+# Engineering Projects
+
+Repositorio contenedor de proyectos de ingeniería organizados por áreas.
+
+## Estructura
+
+- `ingenieria-electrica/`
+- `control-systems/`
+- `aeroespacial/`
+- `embedded-systems/`
+- `software/`
+
+## Objetivo
+
+Centralizar prototipos, simulaciones, experimentos y proyectos de aprendizaje antes de promocionarlos al portfolio principal.
